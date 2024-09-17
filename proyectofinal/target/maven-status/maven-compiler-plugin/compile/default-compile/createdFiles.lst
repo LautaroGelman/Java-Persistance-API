@@ -1,0 +1,12 @@
+com\mycompany\proyectofinal\logica\Alumno.class
+percistencia\exceptions\IllegalOrphanException.class
+com\mycompany\proyectofinal\logica\Materias.class
+percistencia\ControlodoraPersistencia.class
+com\mycompany\proyectofinal\logica\Carrera.class
+com\mycompany\proyectofinal\ProyectoJPA.class
+percistencia\MateriasJpaController.class
+percistencia\exceptions\NonexistentEntityException.class
+percistencia\AlumnoJpaController.class
+com\mycompany\proyectofinal\logica\Controladora.class
+percistencia\CarreraJpaController.class
+percistencia\exceptions\PreexistingEntityException.class
